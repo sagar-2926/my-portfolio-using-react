@@ -1,6 +1,9 @@
-.btn{
+.Btn{
     height: 30px;
-    width: 60px;
+    width: 80px;
     background-color: black;
     color: white;
+}
+.Btn-container{
+    
 }

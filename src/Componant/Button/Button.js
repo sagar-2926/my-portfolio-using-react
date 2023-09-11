@@ -1,7 +1,17 @@
 import "./Button.css"
 export default function Button (){
 return(
-    <button className="btn">ok</button>
+    <>
+    <div className="Btn-container">
+    <button className="Btn">
+        Github
+     </button>
+      {/* <button className="Btn">
+       Github 
+      </button> */}
+    </div>
+   
+      </>
 )
 
 

@@ -36,5 +36,10 @@ margin-left: 500px;
     display: flex;
     border-radius: 10px;
     text-decoration: none;
+    font-weight: bold;
     
+}
+.nav-cont:hover{
+    color: black;
+    background-color:  #b3d1ff;
 }
